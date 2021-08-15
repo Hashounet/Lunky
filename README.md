@@ -34,8 +34,5 @@ hash@host ~> python3 main.py
 -----
 
 # Paie moi un café ☕
-<center><img src="https://cdn.discordapp.com/attachments/874808659706773584/876531972174929920/BTC_Logo.png"></center>
 
-```
-BTC Adresse : bc1qj9320paxtumnqxnavlew2zrkmny68lepnwpjnt
-```
+<center><img src="https://cdn.discordapp.com/attachments/874808659706773584/876531972174929920/BTC_Logo.png">BTC Adresse : bc1qj9320paxtumnqxnavlew2zrkmny68lepnwpjnt
