@@ -3,6 +3,13 @@ Lunky est un outil servant à faire des scan de vulnérabilités ainsi que des s
 
 -----
 
+# Table des matières
+<a href="https://github.com/fchaxor/Lunky#preview">📷 Preview 📷</a>
+<a href="https://github.com/fchaxor/Lunky#prérequis">📜 Prérequis 📜</a>
+<a href="https://github.com/fchaxor/Lunky#installation">💽 Installation 💽</a>
+
+-----
+
 # Preview
 <img src="https://cdn.discordapp.com/attachments/874808659706773584/876524067199549480/DeepinScreenshot_select-area_20210815195258.png">
 
