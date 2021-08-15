@@ -1,5 +1,5 @@
 # Lunky 🌟
-Lunky est un outil servant à faire des scan de vulnérabilités ainsi que des scan de ports (toujours en dévelopement)
+Lunky est un outil servant à faire des scan de vulnérabilités ainsi que des scan de ports ***(toujours en dévelopement)***
 <br>
 Svp ne skidder pas mdr
 
