@@ -30,3 +30,11 @@ hash@host ~> cd lunky
 hash@host ~> sudo pip install -r requirements.txt
 hash@host ~> python3 main.py
 ```
+
+-----
+
+# Paie moi un café ☕
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/BTC_Logo.svg"></center>
+```
+BTC Adresse : bc1qj9320paxtumnqxnavlew2zrkmny68lepnwpjnt
+```
